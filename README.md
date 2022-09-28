@@ -17,8 +17,11 @@
  
    </div><br/>
   
-  [![Email](https://https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](xandirsilva@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+  ###
+  
+  <a href = "mailto:xandirsilva64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  <a href="https://wa.me/qr/ZCKS6TIOZEG4P1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  
 
   
