@@ -5,7 +5,7 @@
 - Java
 - SQL
 - Spring Boot
-- Cursando tecnologia em  Análise de desenvolvimento  da informação
+- Cursando tecnologia em  Análise de desenvolvimento  de Sistemas
 
   
 
